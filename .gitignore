@@ -1,0 +1,5 @@
+api/.env
+url-short-key.pem
+url-shortener-go-key.pem
+data/
+.data/*
